@@ -1,0 +1,13 @@
+{
+  "name": "arantic-skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A library of Claude Code skills from Arantic Labs.",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
